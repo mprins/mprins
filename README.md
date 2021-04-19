@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![MPrins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mprins&count_private=true&show_icons=true)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mprins?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/mprins?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/mprins?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mprins?style=social)
