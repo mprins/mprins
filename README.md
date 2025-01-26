@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Mark Prins, welcome to my github profile. I'm a spatial/GIS developer working mostly with Java, XSL, Typescript, Python, SQL and PHP. You may know me from work on [DokuWiki plugins](https://github.com/mprins?tab=repositories&q=dokuwiki-plugin&type=&language=&sort=), [@GeoTools](https://github.com/geotools/geotools) and [@GeoServer](https://github.com/geoserver/geoserver), [@OSHI](https://github.com/oshi/oshi), historic work on [@Geozet](https://github.com/geozet) or one of the  [@B3Partners](https://github.com/B3Partners) products or projects of my current employer such as [@Tailormap](https://github.com/Tailormap).
+Welcome to my github profile, I'm Mark Prins. I'm a spatial/GIS developer working mostly in Java, XSL, Typescript, SQL and some Python and PHP on the side. 
+You may know me from work on [DokuWiki plugins](https://github.com/mprins?tab=repositories&q=dokuwiki-plugin&type=&language=&sort=), [@GeoTools](https://github.com/geotools/geotools) and [@GeoServer](https://github.com/geoserver/geoserver), [@OSHI](https://github.com/oshi/oshi), historic work on [@Geozet](https://github.com/geozet) or one of the  [@B3Partners](https://github.com/B3Partners) products or projects of my current employer such as [@Tailormap](https://github.com/Tailormap).
 
 <!--
 **mprins/mprins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +23,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![MPrins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mprins&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
-<!-- 
+
+<!-- geeft alleen stats uit de prive repo
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mprins&layout=compact&count_private=true&show_icons=true&hide_title=true&langs_count=10)
 -->
 
